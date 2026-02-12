@@ -26,7 +26,6 @@ const yesTeasePokes = [
     "ahh maluuu, coba pencet yang merah lagi bebeee 👀",
     "kalo kata ale-ale, anda belum beruntung 😈",
     "pencet merah kalo bebe sayang aku 😏"
-    "aku bilang kan pencet merah bebe 😏"
 ]
 
 let yesTeasedCount = 0

@@ -12,7 +12,7 @@ const gifStages = [
 const noMessages = [
     "No",
     "Bebe yakinnnnn? 🤔",
-    "bebe.... 🥺",
+    "bebe... 🥺",
     "gilaa sih bebe, cuktawww...",
     "bebe denger suara hujan diluar? itu suara tangisku... 😢",
     "Please??? 💔",
@@ -23,9 +23,10 @@ const noMessages = [
 
 const yesTeasePokes = [
     "Buru buru banget pencet yes, sesayang itu kamu sama aku?? 😏",
-    "ahh maluuu, coba pencet no lagi bebeee 👀",
+    "ahh maluuu, coba pencet yang merah lagi bebeee 👀",
     "kalo kata ale-ale, anda belum beruntung 😈",
-    "pencet no kalo bebe sayang aku 😏"
+    "pencet merah kalo bebe sayang aku 😏"
+    "aku bilang kan pencet merah bebe 😏"
 ]
 
 let yesTeasedCount = 0
